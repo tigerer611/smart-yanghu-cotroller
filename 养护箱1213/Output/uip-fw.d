@@ -1,0 +1,17 @@
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\uip-fw.c
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\uip.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\uipopt.h
+..\..\output\uip-fw.o: ..\..\User\uIP_enc28j60\uip-conf.h
+..\..\output\uip-fw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+..\..\output\uip-fw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\uip-fw.o: ..\..\User\uIP_APP\tcp_demo.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\uipopt.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\psock.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\pt.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\lc.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\lc-switch.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\apps\webserver\httpd.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\apps\webserver\httpd-fs.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\uip_arch.h
+..\..\output\uip-fw.o: ..\..\Libraries\uIP-1.0\uip\uip-fw.h
+..\..\output\uip-fw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
